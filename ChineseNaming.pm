@@ -2,9 +2,9 @@ package Lingua::ZH::ChineseNaming;
 
 use 5.006;
 use strict;
-use warnings;
+
 use Carp;
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 require Exporter;
 our @ISA = qw/Exporter/;
 my $CHARS;
@@ -258,14 +258,6 @@ years ago, and is given for your own interpretation.
 
 =back
 
-=head1 AUTHOR
-
-xern <xern@cpan.org>
-
-=head1 LICENSE
-
-The Artistic License
-
 =head1 REFERENCE
 
 Almost every kind of book on Chinese naming is 
@@ -279,5 +271,12 @@ for you reference.
 =item * I CHING, The Oracle by Kerson Huang
 
 =back
+
+=head1 COPYRIGHT
+
+xern E<lt>xern@cpan.orgE<gt>
+
+This module is free software; you can redistribute it or modify it under the same terms as Perl itself.
+
 
 =cut

@@ -1,7 +1,7 @@
 Lingua/ZH/ChineseNaming version 0.01
 ====================================
 
-A tool for analyzing Chinese names
+A fortune-teller-like tool for analyzing Chinese names.
 
 INSTALLATION
 
@@ -14,6 +14,6 @@ To install this module type the following:
 
 COPYRIGHT AND LICENCE
 
-Released under The Artistic License
-Copyright (C) 2002 xern <xern@cpan.org>
+Copyright (C) 2003 xern <xern@cpan.org>
 
+This module is free software; you can redistribute it or modify it under the same terms as Perl itself.
